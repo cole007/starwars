@@ -236,7 +236,6 @@ html {
   top: 0;
   padding: 0; margin: 0;
   z-index: 1000;
-  background: red;
   /*padding: 10px;*/
 }
 .ep-switch li {
@@ -268,6 +267,24 @@ html {
 .ep-switch li.active a {
   background: #fff;
 }
+.colofon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: inline-block;
+  background: white;
+  padding: 6px 8px;
+  color: black;
+  font-size: 1.2em;  
+  opacity: 0.675;
+  text-decoration: none;
+  z-index: 120;
+}
+.colofon:hover, .colofon:focus {
+  opacity: 1;
+  
+}
+
 
 @keyframes animStar {
   from {

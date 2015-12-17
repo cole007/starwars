@@ -33,7 +33,7 @@ var vis = d3.select("#chart")
     .attr("width", w)
     .attr("height", h);
 
-d3.json("json.php", function(json) {
+d3.json("scripts/data.json", function(json) {
   var force = d3.layout.force()
       .charge(-150)
       .linkDistance(75)

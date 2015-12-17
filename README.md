@@ -1,13 +1,11 @@
 ## Data visualisation of Star Wars deaths
 
-Visualisation looking at who killed who utilising d3.js Force-based network layouts.
-
-Data from the SWAPI site was taken and updated to establish relationships for who in the series killed who.  
+Visualisation looking at who kills who in the Star Wars series (strictly Episodes I-VI) utilising d3.js Force-based network layouts.  
 The visualisation only relates to named characters within the series.  
 Not currently optimised for mobile.  
 
 Created by Cole Henley @cole007  
-May the Force be With You
+May the Force(-based netowrk layouts) be With You!
 
 ## Credits
 

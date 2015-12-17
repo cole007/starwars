@@ -1,7 +1,7 @@
 ## Data visualisation of Star Wars deaths
 
-Visualisation looking at who kills who in the Star Wars series (strictly Episodes I-VI) utilising d3.js Force-based network layouts.  
-The visualisation only relates to named characters within the series.  
+Visualisation looking at who kills who in the Star Wars series (strictly Episodes I-VI) utilising d3.js Force-based network layouts. The visualisation only relates to named characters within the series.  
+
 Not currently optimised for mobile.  
 
 Created by Cole Henley @cole007  
